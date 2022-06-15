@@ -1,2 +1,2 @@
 toggle:
-  enable-async-flow: false
+  enable-async-flow: true
